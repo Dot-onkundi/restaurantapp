@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 import HeadlineCards from './components/HeadlineCards';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
+import Slider from './components/Slider';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Foods/>
       <Category/>
       <Bottom/> 
+      <Slider/>
       <Footer/>
       
     </div>
